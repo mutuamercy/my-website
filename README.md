@@ -1,2 +1,2 @@
 # my-website
-my story
+my personal website
